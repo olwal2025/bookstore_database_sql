@@ -16,7 +16,7 @@ The database contains 15 tables organized into these main categories:
 - **Customer Data**: `customer`, `address`, `country`, `customer_address`
 - **Order Processing**: `cust_order`, `order_line`, `shipping_method`, `order_status`, `order_history`
 
-![Database Diagram](Bookstore Database.drawio.png)
+Bookstore Database.drawio.png
 
 ## Key Features
 
