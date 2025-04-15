@@ -8,7 +8,7 @@ Group SQL assignment to design and build a bookstore database using MySQL.
 
 This assignment implements a complete database system for a bookstore, tracking inventory, customers, orders and shipping. Our team collaborated on designing the schema, implementing the SQL scripts and testing the system.
 
-## Database Schema
+## Database Schema & Diagram
 
 The database contains 15 tables organized into these main categories:
 
@@ -16,7 +16,9 @@ The database contains 15 tables organized into these main categories:
 - **Customer Data**: `customer`, `address`, `country`, `customer_address`
 - **Order Processing**: `cust_order`, `order_line`, `shipping_method`, `order_status`, `order_history`
 
-![Database Diagram](Bookstore Database.drawio.png)
+### Database Diagram
+![Complete Database Schema](Bookstore Database.drawio.png)
+*Visual representation of all tables and their relationships*
 
 ## Key Features
 
